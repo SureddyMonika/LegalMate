@@ -1,0 +1,52 @@
+[
+  {
+    "question": "I want a refund",
+    "answer": "You are entitled to a refund, repair, or replacement under Australian Consumer Law if the product is faulty. Stores are not required to offer refunds for change of mind unless they choose to.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/refunds-and-returns"
+  },
+  {
+    "question": "What if the seller refuses to give me a refund?",
+    "answer": "You should contact the seller in writing with your concern. If it\u2019s not resolved, you can escalate the issue to Consumer Affairs Victoria or VCAT.",
+    "source": "https://www.consumer.vic.gov.au/contact-us/resolve-a-dispute"
+  },
+  {
+    "question": "How can I complain about a business?",
+    "answer": "You can lodge a complaint through Consumer Affairs Victoria's website. Make sure to include any communication or receipts as evidence.",
+    "source": "https://www.consumer.vic.gov.au/contact-us/resolve-a-dispute"
+  },
+  {
+    "question": "The product I got is broken, what should I do?",
+    "answer": "If you receive a faulty or damaged product, you're entitled to a repair, replacement, or refund under Australian Consumer Law.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/problems-with-a-product"
+  },
+  {
+    "question": "Can I return something without a receipt?",
+    "answer": "A receipt is the best proof of purchase, but you may be able to use a bank statement or other documentation instead.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/refunds-and-returns"
+  },
+  {
+    "question": "Do I have to accept store credit instead of a refund?",
+    "answer": "If a product is faulty, you have the right to request a full refund. Store credit can only be offered if you agree.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/refunds-and-returns"
+  },
+  {
+    "question": "Is there a time limit for returns?",
+    "answer": "For consumer guarantees, claims must be made within a reasonable time. For general returns, it depends on the store\u2019s policy.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/problems-with-a-product"
+  },
+  {
+    "question": "Can I get a refund if I changed my mind?",
+    "answer": "Businesses are not legally required to offer a refund if you simply changed your mind, but some may choose to.",
+    "source": "https://www.consumer.vic.gov.au/products-and-services/refunds-and-returns/change-of-mind"
+  },
+  {
+    "question": "What is VCAT and how can it help me?",
+    "answer": "VCAT is the Victorian Civil and Administrative Tribunal. You can apply there to resolve consumer disputes if other efforts fail.",
+    "source": "https://www.vcat.vic.gov.au"
+  },
+  {
+    "question": "How do I start a complaint with Consumer Affairs?",
+    "answer": "Go to the Consumer Affairs Victoria website and use their online form. Make sure you\u2019ve contacted the business first.",
+    "source": "https://www.consumer.vic.gov.au/contact-us/resolve-a-dispute"
+  }
+]
