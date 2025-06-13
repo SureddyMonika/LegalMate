@@ -45,7 +45,7 @@ if user_prompt:
     confidence = float(scores[best_match_idx])
 
     try:
-        if confidence > 0.7:
+        if confidence > 0.5:
             answer = faq_data[best_match_idx]["answer"]
             source = faq_data[best_match_idx]["source"]
             bot_reply = f"{answer}<br><a href='{source}' target='_blank'>🔗 View Source</a>"
